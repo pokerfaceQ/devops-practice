@@ -1,8 +1,8 @@
 # devops-practice
 the practice of devops 
 
-##Implementation
+# 1.Implementation
 <img src="./plan.png"  />
 
-##Tool List
+# 2.Tool List
 <img src="./tool-list.png"  />
